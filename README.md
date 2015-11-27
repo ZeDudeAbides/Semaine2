@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-    </head>
-    <body>
-    
-    </body>
-</html>
+#Semaine 2
 
-https://www.codecademy.com/fr/users/ZeDudeAbides/achievements
+Vous trouverez ci-joint un exemplaire de mon C.V en HTML.
+
+Durant cette semaine, j'ai révisé HTML, CSS et Bootstrap sur [CodeCademy](https://www.codecademy.com/fr/users/ZeDudeAbides/achievements)
+
